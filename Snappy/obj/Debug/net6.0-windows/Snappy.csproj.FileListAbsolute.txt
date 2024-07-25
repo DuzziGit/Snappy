@@ -1,0 +1,5 @@
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\obj\Debug\net6.0-windows\Snappy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\obj\Debug\net6.0-windows\Snappy.AssemblyInfoInputs.cache
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\obj\Debug\net6.0-windows\Snappy.AssemblyInfo.cs
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\obj\Debug\net6.0-windows\Snappy.csproj.CoreCompileInputs.cache
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\obj\Debug\net6.0-windows\Snappy.sourcelink.json

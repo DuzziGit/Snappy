@@ -1,0 +1,16 @@
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\bin\Debug\net8.0-windows\config.cfg
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\bin\Debug\net8.0-windows\Snappy.exe
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\bin\Debug\net8.0-windows\Snappy.deps.json
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\bin\Debug\net8.0-windows\Snappy.runtimeconfig.json
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\bin\Debug\net8.0-windows\Snappy.dll
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\bin\Debug\net8.0-windows\Snappy.pdb
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\obj\Debug\net8.0-windows\Snappy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\obj\Debug\net8.0-windows\Snappy.AssemblyInfoInputs.cache
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\obj\Debug\net8.0-windows\Snappy.AssemblyInfo.cs
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\obj\Debug\net8.0-windows\Snappy.csproj.CoreCompileInputs.cache
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\obj\Debug\net8.0-windows\Snappy.sourcelink.json
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\obj\Debug\net8.0-windows\Snappy.dll
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\obj\Debug\net8.0-windows\refint\Snappy.dll
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\obj\Debug\net8.0-windows\Snappy.pdb
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\obj\Debug\net8.0-windows\Snappy.genruntimeconfig.cache
+C:\Users\dante\OneDrive\Documents\GitHub\DegenProject\Snappy\Snappy\obj\Debug\net8.0-windows\ref\Snappy.dll
