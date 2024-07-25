@@ -1,5 +1,9 @@
 **Snappy**
-**Snappy** is a lightweight Windows utility designed to mimic that of razer's snaptap or wootings SCOD software. Designed for simplicity and efficiency, Snappy monitors the 'A' and 'D' keys, ensuring smooth transitions and preventing key conflicts. Ideal for users who need precise control over their key inputs, Snappy operates quietly in the background with minimal system impact.
+
+
+**Snappy** is a lightweight Windows utility designed to mimic that of razer's snaptap or wootings SCOD software. Designed for simplicity and efficiency, 
+Snappy monitors the 'A' and 'D' keys, ensuring smooth transitions and preventing key conflicts. Ideal for users who need precise control over their key inputs, 
+Snappy operates quietly in the background with minimal system impact.
 
 Features
 **Custom Key Bindings**: Configure which keys to monitor through an easy-to-edit configuration file.
